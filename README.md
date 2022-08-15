@@ -1,5 +1,7 @@
 ## Simple Mars Rover
 
+_Find more katas in: [https://katalyst.codurance.com/](https://katalyst.codurance.com/)_
+
 A robotic rover is to be landed by NASA on a plateau on Mars. This plateau, which is curiously rectangular,</br> must be
 navigated by the rover so that its onboard camera can get a complete view of the surrounding terrain to send back to
 Earth.
